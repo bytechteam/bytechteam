@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav-wrapper {
+  background-color: #263238;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+.hero {
+  height: 80vh;
+  width: 100%;
+}
+
