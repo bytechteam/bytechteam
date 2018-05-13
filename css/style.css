@@ -60,4 +60,14 @@ a{
   font-size: 1.2em;
 }
 
+/* Estilos para la página acerca de */
 
+.acerca {
+  height: 30vh;
+  background-color: #37474f;
+}
+
+.text-acerca {
+  color: #fff;
+  text-align: center;
+}
