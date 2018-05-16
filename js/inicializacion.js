@@ -8,3 +8,9 @@ $(document).ready(function(){
 $(document).ready(function(){
     $('.collapsible').collapsible();
  });
+
+/* Inicializacion del slider */
+
+$(document).ready(function(){
+      $('.slider').slider();
+});

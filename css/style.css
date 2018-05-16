@@ -36,10 +36,12 @@ a{
 /* Estilos para h2 que esta dentro de la imagen */
 .text {
   color: #fff;
+  text-shadow: 0px 0px 4px #000; 
 }
 
 .text-footer {
   color: #fff;
+  text-shadow: 0px 0px 4px #000;
 }
 
 .service {
@@ -58,16 +60,23 @@ a{
   color: #fff;
   text-align: left;
   font-size: 1.2em;
+  text-shadow: 0px 0px 4px #000;
 }
 
-/* Estilos para la página acerca de */
-
-.acerca {
-  height: 30vh;
-  background-color: #37474f;
+.card-content {
+  text-shadow: 0px 0px 0px #000;
 }
 
-.text-acerca {
-  color: #fff;
-  text-align: center;
+/* Estilos para la página quienes somos */
+
+.imagen-first {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.imagen-second {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
 }
