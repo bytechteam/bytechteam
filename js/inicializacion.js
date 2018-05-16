@@ -12,5 +12,5 @@ $(document).ready(function(){
 /* Inicializacion del slider */
 
 $(document).ready(function(){
-      $('.slider').slider();
+    $('.slider').slider();
 });
